@@ -1,1 +1,2 @@
+Configuration of Visual Studio Code. 
 Belongs to this blogpost: https://pascalnaber.wordpress.com/2019/10/05/have-a-great-looking-terminal-and-a-more-effective-shell-with-oh-my-zsh-on-wsl-2-using-windows/
